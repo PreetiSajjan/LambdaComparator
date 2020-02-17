@@ -6,6 +6,7 @@ import java.util.Scanner;
 /**
  * Implements the recursive merge sort algorithm
  * using instance of comparator in lambda expression
+ * @author Preeti Sajjan
  */
 public class LambdaCompator<T>{
 
